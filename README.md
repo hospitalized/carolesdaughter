@@ -1,5 +1,5 @@
 <p align=center>
-  <a href=""><img src="https://lanyard-profile-readme.vercel.app/api/394318793637232641" width=45%></a>
+  <a href="https://github.com/carolesdaughter" target="_blank"><img src="https://lanyard-profile-readme.vercel.app/api/394318793637232641" width=45%></a>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
   
 <p align="center">
-  <a href="https://discord.com/users/394318793637232641"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+  <a href="https://discord.com/users/394318793637232641" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
   <a href="https://t.me/takeoutmywraith" target=_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://www.youtube.com/@m_gnet/" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
 </a>
