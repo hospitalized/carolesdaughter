@@ -18,6 +18,8 @@
 
 <p align="center">
   <a href="https://v3rmillion.net/member.php?action=profile&uid=2117509">my v3rmillion</a>
+  <br>
   <a href="https://forum.wearedevs.net/profile?uid=67993">my wearedevs</a>
+  <br>
   <a href="https://ogu.gg/hookfunction">my ogu</a>
 </a>
