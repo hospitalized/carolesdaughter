@@ -14,4 +14,8 @@
   <a target="_blank" rel="noopener noreferrer" href="https://discord.com/users/394318793637232641"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
   <a target="_blank" rel="noopener noreferrer" href="https://t.me/takeoutmywraith"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@m_gnet/"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+</p>
+
+<p align="center">
+  
 </a>
