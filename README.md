@@ -1,5 +1,5 @@
 <p align=center>
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/carolesdaughter"><img src="https://lanyard-profile-readme.vercel.app/api/394318793637232641" width=45%></a>
+  <a target="_blank" href="https://github.com/carolesdaughter"><img src="https://lanyard-profile-readme.vercel.app/api/394318793637232641" width=45%></a>
 </p>
 
 <p align="center">
