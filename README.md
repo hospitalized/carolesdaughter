@@ -9,6 +9,11 @@
     <a target="_blank" href="https://github.com/carolesdaughter"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
     <a target="_blank" href="https://github.com/carolesdaughter"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 </p>
+ 
+<p align="center">
+  <a target="_blank" href="https://github.com/carolesdaughter"><img src="https://raw.githubusercontent.com/carolesdaughter/github-stats/master/generated/overview.svg#gh-dark-mode-only"></a>
+  <a target="_blank" href="https://github.com/carolesdaughter"><img src="https://raw.githubusercontent.com/carolesdaughter/github-stats/master/generated/languages.svg#gh-dark-mode-only"></a>
+</p>
   
 <p align="center">
   <a target="_blank" href="https://discord.com/users/394318793637232641"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
