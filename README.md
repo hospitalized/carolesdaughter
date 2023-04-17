@@ -29,3 +29,17 @@
   <br>
   <a href="https://ogu.gg/hookfunction">my ogu</a>
 </a>
+
+
+
+<p align="center">
+  <a href="https://feds.lol/skin">https://feds.lol/skin</a>
+  <br>
+  <a href="https://feds.lol/irl">https://feds.lol/irl</a>
+  <br>
+  <a href="https://feds.lol/int">https://feds.lol/int</a>
+  <br>
+  <a href="https://xyl.lol/okay">https://xyl.lol/okay</a>
+  <br>
+  <a href="https://lay.rip/pie">https://lay.rip/pie</a>
+</a>
