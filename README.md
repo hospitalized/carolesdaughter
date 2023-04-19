@@ -4,6 +4,7 @@
   </a>
   <br>
 </p>
+
 <p align="center">
   <a target="_blank" href="https://github.com/carolesdaughter">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -28,6 +29,7 @@
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
       </a>
 </p>
+    
 <p align="center">
   <a target="_blank" href="https://discord.com/users/394318793637232641">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
@@ -38,6 +40,7 @@
       <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
     </a>
 </p>
+  
 <p align="center">
   <a href="https://v3rmillion.net/member.php?action=profile&uid=2117509">my v3rmillion</a>
   <br>
@@ -45,6 +48,7 @@
   <br>
   <a href="https://ogu.gg/hookfunction">my ogu</a>
 </p>
+    
 <p align="center">
   <a href="https://feds.lol/skin">https://feds.lol/skin</a>
   <br>
@@ -56,6 +60,7 @@
   <br>
   <a href="https://lay.rip/pie">https://lay.rip/pie</a>
 </p>
+    
 <p align="center">
   <a target="_blank" href="https://github.com/carolesdaughter">
     <img src="https://raw.githubusercontent.com/carolesdaughter/github-stats/master/generated/overview.svg#gh-dark-mode-only">
