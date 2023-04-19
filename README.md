@@ -1,8 +1,7 @@
 <p align="center">
   <a target="_blank" href="https://discord.com/users/394318793637232641"><img src="https://lanyard-profile-readme.vercel.app/api/394318793637232641" max-width="100%"></a>
   <br>
-  <a target="_blank" href="https://github.com/carolesdaughter"><img src="https://raw.githubusercontent.com/carolesdaughter/github-stats/master/generated/overview.svg#gh-dark-mode-only"></a>
-  <a target="_blank" href="https://github.com/carolesdaughter"><img src="https://raw.githubusercontent.com/carolesdaughter/github-stats/master/generated/languages.svg#gh-dark-mode-only"></a>
+  
 </p>
 
 <p align="center">
@@ -28,7 +27,7 @@
   <a href="https://forum.wearedevs.net/profile?uid=67993">my wearedevs</a>
   <br>
   <a href="https://ogu.gg/hookfunction">my ogu</a>
-</a>
+</p>
 
 
 
@@ -42,4 +41,9 @@
   <a href="https://xyl.lol/okay">https://xyl.lol/okay</a>
   <br>
   <a href="https://lay.rip/pie">https://lay.rip/pie</a>
-</a>
+</p>
+      
+<p align="center">
+  <a target="_blank" href="https://github.com/carolesdaughter"><img src="https://raw.githubusercontent.com/carolesdaughter/github-stats/master/generated/overview.svg#gh-dark-mode-only"></a>
+  <a target="_blank" href="https://github.com/carolesdaughter"><img src="https://raw.githubusercontent.com/carolesdaughter/github-stats/master/generated/languages.svg#gh-dark-mode-only"></a>
+</p>
