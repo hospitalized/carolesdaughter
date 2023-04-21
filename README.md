@@ -1,6 +1,6 @@
 <p align="center">
   <a target="_blank" href="https://discord.com/users/394318793637232641">
-    <img src="https://lanyard-profile-readme.vercel.app/api/394318793637232641" max-width="100%">
+    <img src="https://lanyard.cnrad.dev/api/394318793637232641?&idleMessage=Haiiii^_^&animated=true">
   </a>
   <br>
 </p>
