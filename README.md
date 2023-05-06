@@ -56,8 +56,6 @@
   <br>
   <a href="https://feds.lol/int">https://feds.lol/int</a>
   <br>
-  <a href="https://xyl.lol/okay">https://xyl.lol/okay (xyl.lol is down btw so dont bother w this)</a>
-  <br>
   <a href="https://lay.rip/pie">https://lay.rip/pie</a>
 </p>
     
