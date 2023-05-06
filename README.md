@@ -57,6 +57,8 @@
   <a href="https://lay.rip/pie">https://lay.rip/pie</a>
 </p>
     
+<!--
+
 <p align="center">
   <a target="_blank" href="https://github.com/carolesdaughter">
     <img src="https://raw.githubusercontent.com/carolesdaughter/github-stats/master/generated/overview.svg#gh-dark-mode-only">
@@ -65,3 +67,5 @@
     <img src="https://raw.githubusercontent.com/carolesdaughter/github-stats/master/generated/languages.svg#gh-dark-mode-only">
   </a>
 </p>
+
+-->
