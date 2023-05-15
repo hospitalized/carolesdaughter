@@ -56,7 +56,7 @@
   <br>
   <a href="https://lay.rip/pie">https://lay.rip/pie</a>
   <br>
-  <a href="https://xyl.lol/okay">https://xyl.lol/okay</a>
+  <a href="https://xyl.lol/miserable">https://xyl.lol/miserable</a>
 </p>
     
     
