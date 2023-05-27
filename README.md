@@ -1,9 +1,7 @@
 <p align="center">
-  <br>
   <a target="_blank" href="https://discord.com/users/394318793637232641">
     <img src="https://magnetdiscord.m9sked.repl.co">
   </a>
-  <br>
 </p>
 
 <p align="center">
