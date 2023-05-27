@@ -48,9 +48,9 @@
   <br>
   <a href="https://forum.wearedevs.net/profile?uid=67993">my wearedevs</a>
   <br>
+  </br>
   <a href="https://feds.lol/skin">https://feds.lol/skin</a>
   <br>
-  </br>
   <a href="https://lay.rip/pie">https://lay.rip/pie</a>
   <br>
   <a href="https://xyl.lol/miserable">https://xyl.lol/miserable</a>
