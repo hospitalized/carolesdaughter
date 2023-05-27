@@ -49,11 +49,10 @@
   <a href="https://v3rmillion.net/member.php?action=profile&uid=2117509">my v3rmillion</a>
   <br>
   <a href="https://forum.wearedevs.net/profile?uid=67993">my wearedevs</a>
-</p>
-    
-<p align="center">
+  <br>
   <a href="https://feds.lol/skin">https://feds.lol/skin</a>
   <br>
+  </br>
   <a href="https://lay.rip/pie">https://lay.rip/pie</a>
   <br>
   <a href="https://xyl.lol/miserable">https://xyl.lol/miserable</a>
