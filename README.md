@@ -51,10 +51,6 @@
 <p align="center">
   <a href="https://feds.lol/skin">https://feds.lol/skin</a>
   <br>
-  <a href="https://feds.lol/irl">https://feds.lol/irl</a>
-  <br>
-  <a href="https://feds.lol/int">https://feds.lol/int</a>
-  <br>
   <a href="https://lay.rip/pie">https://lay.rip/pie</a>
   <br>
   <a href="https://xyl.lol/miserable">https://xyl.lol/miserable</a>
@@ -67,6 +63,10 @@
 <!--
 
 <p align="center">
+  <a href="https://feds.lol/irl">https://feds.lol/irl</a>
+  <br>
+  <a href="https://feds.lol/int">https://feds.lol/int</a>
+
   <a target="_blank" href="https://github.com/carolesdaughter">
     <img src="https://raw.githubusercontent.com/carolesdaughter/github-stats/master/generated/overview.svg#gh-dark-mode-only">
   </a>
