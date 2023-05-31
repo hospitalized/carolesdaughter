@@ -43,7 +43,7 @@
   </a>
 </p>
   
-<p align="center">
+<h2><p align="center">
   <a href="https://v3rmillion.net/member.php?action=profile&uid=2117509">my v3rmillion</a>
   <br>
   <a href="https://forum.wearedevs.net/profile?uid=67993">my wearedevs</a>
@@ -56,7 +56,7 @@
   <a href="https://xyl.lol/miserable">https://xyl.lol/miserable</a>
   <br>
   <a href="https://myaddys.net/u">https://myaddys.net/u</a>
-</p>
+</p></h2>
     
     
     
