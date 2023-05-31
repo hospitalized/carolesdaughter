@@ -1,3 +1,5 @@
+<h1></h1>
+
 <p align="center">
   <a target="_blank" href="https://discord.com/users/394318793637232641">
     <img src="https://magnetdiscord.m9sked.repl.co">
