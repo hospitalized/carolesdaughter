@@ -29,7 +29,7 @@
      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
    </a>
 </p>
-    
+
 <p align="center">
   <a target="_blank" href="https://discord.dog/394318793637232641">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
   </a>
 </p>
-  
+
 <h2><p align="center">
   <a href="https://v3rmillion.net/member.php?action=profile&uid=2117509">my v3rmillion</a>
   <br>
