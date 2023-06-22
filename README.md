@@ -54,6 +54,8 @@
   <br>
   <a href="https://xyl.lol/miserable">https://xyl.lol/miserable</a>
   <br>
+  <a href="https://kys.lol/net">https://kys.lol/net</a>
+  <br>
   <a href="https://myaddys.net/u">https://myaddys.net/u</a>
 </p></h2>
     
