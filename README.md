@@ -34,7 +34,7 @@
   <a target="_blank" href="https://discord.dog/394318793637232641">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
   </a>
-  <a target="_blank" href="https://t.me/magnet73828267438382927478483732">
+  <a target="_blank" href="https://t.me/mAgNeT_zZz">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
   <a target="_blank" href="https://www.youtube.com/@m_gnet/">
