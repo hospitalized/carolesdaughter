@@ -56,7 +56,7 @@
   <br>
   <a href="https://kys.lol/net">https://kys.lol/net</a>
   <br>
-  <a href="https://www.mhm.lol/@hi">https://www.mhm.lol/@hi</a>
+  <a href="https://mhm.lol/@hi">https://mhm.lol/@hi</a>
   <br>
   <a href="https://myaddys.net/u">https://myaddys.net/u</a>
 </p></h2>
