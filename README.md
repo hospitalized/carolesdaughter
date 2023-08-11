@@ -60,8 +60,6 @@
   <br>
   <a href="https://xyl.lol/miserable">https://xyl.lol/miserable</a>
   <br>
-  <a href="https://kys.lol/net">https://kys.lol/net</a>
-  <br>
   <a href="https://mhm.lol/@hi">https://mhm.lol/@hi</a>
   <br>
   <a href="https://myaddys.net/u">https://myaddys.net/u</a>
@@ -75,7 +73,10 @@
   <a href="https://feds.lol/irl">lost login to dis</a>
   <br>
   <a href="https://feds.lol/skin">lost login to dis</a>
+  <br>
+  <a href="https://kys.lol/net">website seems to have been taken down (ssl cert invalid)</a>
 
+  idc about stats anymore but deez use to be here
   <a target="_blank" href="https://github.com/carolesdaughter">
     <img src="https://raw.githubusercontent.com/carolesdaughter/github-stats/master/generated/overview.svg#gh-dark-mode-only">
   </a>
