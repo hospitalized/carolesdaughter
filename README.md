@@ -54,7 +54,7 @@
   <br>
   <a href="https://wanted.lol/joe">https://wanted.lol/joe</a>
   <br>
-  <a href="https://feds.lol/skin">https://feds.lol/skin</a>
+  <a href="https://feds.lol/int">https://feds.lol/int</a>
   <br>
   <a href="https://lay.rip/pie">https://lay.rip/pie</a>
   <br>
@@ -72,9 +72,9 @@
 <!--
 
 <p align="center">
-  <a href="https://feds.lol/irl">https://feds.lol/irl</a>
+  <a href="https://feds.lol/irl">lost login to dis</a>
   <br>
-  <a href="https://feds.lol/int">https://feds.lol/int</a>
+  <a href="https://feds.lol/skin">lost login to dis</a>
 
   <a target="_blank" href="https://github.com/carolesdaughter">
     <img src="https://raw.githubusercontent.com/carolesdaughter/github-stats/master/generated/overview.svg#gh-dark-mode-only">
