@@ -48,7 +48,7 @@
   <a href="https://forum.wearedevs.net/profile?uid=67993">my wearedevs</a>
   <br>
   </br>
-  <a href="https://myth.rip/666">https://myth.rip/666</a>
+  <a href="https://myth.rip/sematary">https://myth.rip/sematary</a>
   <br>
   <a href="https://solo.to/rump">https://solo.to/rump</a>
   <br>
