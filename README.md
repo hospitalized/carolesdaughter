@@ -4,6 +4,8 @@
     </a>
 </div>
 
+<br>
+
 <div align="center">
     <details>
         <summary>Programming Languages</summary>
