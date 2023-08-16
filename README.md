@@ -19,7 +19,7 @@
         <a target="_blank" href="https://www.lua.org/">
             <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
         </a>
-        <a target="_blank" href="https://www.w3schools.com/cs/index.php">
+        <a target="_blank" href="https://www.w3schools.com/cs/">
             <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
         </a>
         <a target="_blank" href="https://www.w3schools.com/cpp/">
