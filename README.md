@@ -10,14 +10,14 @@
     <details>
         <summary>Known Programming Languages</summary>
         <br>
+        <a target="_blank" href="https://www.lua.org/">
+            <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
+        </a>
         <a target="_blank" href="https://www.w3schools.com/python/">
             <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
         </a>
         <a target="_blank" href="https://www.w3schools.com/Js/">
             <img src="https://img.shields.io/badge/javascript-ffdd54?style=for-the-badge&logo=javascript&logoColor=blue">
-        </a>
-        <a target="_blank" href="https://www.lua.org/">
-            <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
         </a>
         <a target="_blank" href="https://www.w3schools.com/cs/">
             <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
