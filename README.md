@@ -54,9 +54,9 @@
     <details>
         <summary>Other Links/Socials</summary>
         <br>
-        <a href="https://v3rmillion.net/member.php?action=profile&uid=2117509">my v3rmillion</a>
+        <a href="https://v3rmillion.net/member.php?action=profile&uid=2117509">v3rmillion</a>
         <br>
-        <a href="https://forum.wearedevs.net/profile?uid=67993">my wearedevs</a>
+        <a href="https://forum.wearedevs.net/profile?uid=67993">wearedevs</a>
         <br>
         </br>
         <a href="https://myth.rip/sematary">myth.rip/sematary</a>
