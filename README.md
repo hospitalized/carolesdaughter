@@ -14,7 +14,7 @@
             <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
         </a>
         <a target="_blank" href="https://nodejs.org/en">
-            <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+            <img src="https://img.shields.io/badge/javascript-ffdd54?style=for-the-badge&logo=javascript&logoColor=blue">
         </a>
         <a target="_blank" href="https://www.lua.org/">
             <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
