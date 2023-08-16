@@ -8,7 +8,7 @@
 
 <div align="center">
     <details>
-        <summary>Programming Languages</summary>
+        <summary>Known Programming Languages</summary>
         <br>
         <a target="_blank" href="https://www.python.org/">
             <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -52,7 +52,7 @@
 
 <div align="center">
     <details>
-        <summary>Other Links</summary>
+        <summary>Other Links/Socials</summary>
         <br>
         <a href="https://v3rmillion.net/member.php?action=profile&uid=2117509">my v3rmillion</a>
         <br>
