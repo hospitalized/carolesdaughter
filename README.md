@@ -10,7 +10,7 @@
     <details>
         <summary>Known Programming Languages</summary>
         <br>
-        <a target="_blank" href="https://www.python.org/">
+        <a target="_blank" href="https://www.w3schools.com/python/">
             <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
         </a>
         <a target="_blank" href="https://www.w3schools.com/Js/">
