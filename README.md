@@ -1,10 +1,8 @@
-<h1></h1>
-
-<p align="center">
+<div align="center">
     <a target="_blank" href="https://discord.dog/394318793637232641">
         <img src="https://magnetdiscord.m9sked.repl.co">
     </a>
-</p>
+</div>
 
 <div align="center">
     <details>
@@ -80,13 +78,14 @@
 <!--
 
 <p align="center">
-  <a href="https://feds.lol/irl">lost login to dis</a>
+  <a href="https://feds.lol/irl"> lost login to dis </a>
   <br>
-  <a href="https://feds.lol/skin">lost login to dis</a>
+  <a href="https://feds.lol/skin"> lost login to dis </a>
   <br>
-  <a href="https://kys.lol/net">website seems to have been taken down (ssl cert invalid)</a>
+  <a href="https://kys.lol/net"> website seems to have been taken down (ssl cert invalid) </a>
 
   idc about stats anymore but deez use to be here
+  
   <a target="_blank" href="https://github.com/carolesdaughter">
     <img src="https://raw.githubusercontent.com/carolesdaughter/github-stats/master/generated/overview.svg#gh-dark-mode-only">
   </a>
