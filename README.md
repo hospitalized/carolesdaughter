@@ -65,6 +65,8 @@
         <br>
         <a href="https://wanted.lol/joe">wanted.lol/joe</a>
         <br>
+        <a href="https://afra.id/mag">afra.id/mag</a>
+        <br>
         <a href="https://feds.lol/int">feds.lol/int</a>
         <br>
         <a href="https://lay.rip/pie">lay.rip/pie</a>
