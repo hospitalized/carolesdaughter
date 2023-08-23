@@ -59,23 +59,23 @@
         <a href="https://forum.wearedevs.net/profile?uid=67993">wearedevs</a>
         <br>
         </br>
-        <a href="https://myth.rip/mag">myth.rip/mag</a>
-        <br>
-        <a href="https://solo.to/rump">solo.to/rump</a>
-        <br>
-        <a href="https://wanted.lol/joe">wanted.lol/joe</a>
-        <br>
         <a href="https://afra.id/mag">afra.id/mag</a>
         <br>
         <a href="https://feds.lol/int">feds.lol/int</a>
         <br>
         <a href="https://lay.rip/pie">lay.rip/pie</a>
         <br>
-        <a href="https://xyl.lol/miserable">xyl.lol/miserable</a>
-        <br>
         <a href="https://mhm.lol/@hi">mhm.lol/@hi</a>
         <br>
         <a href="https://myaddys.net/u">myaddys.net/u</a>
+        <br>
+        <a href="https://myth.rip/mag">myth.rip/mag</a>
+        <br>
+        <a href="https://solo.to/rump">solo.to/rump</a>
+        <br>
+        <a href="https://wanted.lol/joe">wanted.lol/joe</a>
+        <br>
+        <a href="https://xyl.lol/miserable">xyl.lol/miserable</a>
     </details>
 </div>
 
