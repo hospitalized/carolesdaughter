@@ -59,7 +59,7 @@
         <a href="https://forum.wearedevs.net/profile?uid=67993">wearedevs</a>
         <br>
         </br>
-        <a href="https://myth.rip/sematary">myth.rip/sematary</a>
+        <a href="https://myth.rip/mag">myth.rip/mag</a>
         <br>
         <a href="https://solo.to/rump">solo.to/rump</a>
         <br>
