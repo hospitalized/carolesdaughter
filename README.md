@@ -78,24 +78,3 @@
         <a href="https://xyl.lol/miserable">xyl.lol/miserable</a>
     </details>
 </div>
-
-<!--
-
-<p align="center">
-  <a href="https://feds.lol/irl"> lost login to dis </a>
-  <br>
-  <a href="https://feds.lol/skin"> lost login to dis </a>
-  <br>
-  <a href="https://kys.lol/net"> website seems to have been taken down (ssl cert invalid) </a>
-
-  idc about stats anymore but deez use to be here
-  
-  <a target="_blank" href="https://github.com/carolesdaughter">
-    <img src="https://raw.githubusercontent.com/carolesdaughter/github-stats/master/generated/overview.svg#gh-dark-mode-only">
-  </a>
-  <a target="_blank" href="https://github.com/carolesdaughter">
-    <img src="https://raw.githubusercontent.com/carolesdaughter/github-stats/master/generated/languages.svg#gh-dark-mode-only">
-  </a>
-</p>
-
--->
