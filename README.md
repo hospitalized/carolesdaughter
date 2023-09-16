@@ -44,9 +44,6 @@
         <a target="_blank" href="https://t.me/hanukkahween">
             <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
         </a>
-        <a target="_blank" href="https://www.youtube.com/@m_gnet/">
-            <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
-        </a>
     </details>
 </div>
 
