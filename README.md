@@ -1,6 +1,8 @@
 <div align="center">
     <a target="_blank" href="https://discord.dog/394318793637232641">
         <img src="https://magnetdiscord.m9sked.repl.co">
+        <br>
+        <img src="https://komarev.com/ghpvc/?username=carolesdaughter&label=Profile%20views&color=0e75b6&style=flat" alt="carolesdaughter">
     </a>
 </div>
 
