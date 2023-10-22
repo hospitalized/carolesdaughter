@@ -11,7 +11,7 @@
 
 <div align="center">
     <details>
-        <summary>Known Programming Languages</summary>
+        <summary>Known Languages</summary>
         <br>
         <a target="_blank" href="https://www.lua.org/">
             <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
