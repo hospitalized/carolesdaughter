@@ -41,5 +41,7 @@
         <a href="https://forum.wearedevs.net/profile?uid=67993">wearedevs</a>
         <br>
         <a href="https://www.buymeacoffee.com/nrba">buy me a coffee</a>
+        <br>
+        <a rel="me" href="https://infosec.exchange/@magnet">mastodon</a>
     </details>
 </div>
