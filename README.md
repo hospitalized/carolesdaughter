@@ -41,6 +41,9 @@
     <details>
         <summary>My Socials</summary>
         <br>
+        <a target="_blank" href="https://www.buymeacoffee.com/nrba">buy me a coffee</a>
+        <br>
+        </br>
         <a target="_blank" href="https://discord.dog/394318793637232641">
             <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
         </a>
