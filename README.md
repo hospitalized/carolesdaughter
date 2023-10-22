@@ -40,7 +40,6 @@
 <div align="center">
     <details>
         <summary>My Socials</summary>
-        <br>
         <a target="_blank" href="https://discord.dog/394318793637232641">
             <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
         </a>
@@ -53,7 +52,6 @@
 <div align="center">
     <details>
         <summary>Other Links/Socials</summary>
-        <h5>session: 05f96b7905e3b65c6dd362e64bdacba977ace7b35786790aa9f4e750d617712924</h5>
         <br>
         <a href="https://v3rmillion.net/member.php?action=profile&uid=2117509">v3rmillion</a>
         <br>
