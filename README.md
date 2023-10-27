@@ -1,6 +1,6 @@
 <div align="center">
     <a>
-        <img src="https://lanyard.cnrad.dev/api/394318793637232641?theme=light&bg=4d88FF&animated=true&hideBadges=true&hideTimestamp=true&idleMessage=magnet">
+        <img href="https://discord.dog/394318793637232641" src="https://lanyard.cnrad.dev/api/394318793637232641?theme=light&bg=4d88FF&animated=true&hideBadges=true&hideTimestamp=true&idleMessage=magnet">
         <br>
         </br>
         <img src="https://komarev.com/ghpvc/?username=carolesdaughter&label=Profile%20views&color=0e75b6&style=flat" alt="carolesdaughter">
