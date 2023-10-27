@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://discord.dog/394318793637232641">
+    <a>
         <img src="https://lanyard.cnrad.dev/api/394318793637232641?theme=light&bg=4d88FF&animated=true&hideBadges=true&hideTimestamp=true&idleMessage=magnet">
         <br>
         </br>
