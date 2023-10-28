@@ -32,7 +32,7 @@
 
 <div align="center">
     <details>
-        <summary>Other Links/Socials</summary>
+        <summary>Other Stuff</summary>
         <br>
         <a href="https://v3rmillion.net/member.php?action=profile&uid=2117509">v3rmillion</a>
         <br>
