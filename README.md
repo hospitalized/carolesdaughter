@@ -29,17 +29,3 @@
         <a href="https://t.me/hanukkahween"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
     </details>
 </div>
-
-<div align="center">
-    <details>
-        <summary>Other Stuff</summary>
-        <br>
-        <a href="https://v3rmillion.net/member.php?action=profile&uid=2117509">v3rmillion</a>
-        <br>
-        <a href="https://forum.wearedevs.net/profile?uid=67993">wearedevs</a>
-        <br>
-        <a href="https://www.buymeacoffee.com/nrba">buy me a coffee</a>
-        <br>
-        <a rel="me" href="https://infosec.exchange/@magnet">mastodon</a>
-    </details>
-</div>
