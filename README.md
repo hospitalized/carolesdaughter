@@ -34,6 +34,6 @@
     <details>
         <summary>Public PGP Key</summary>
         <br>
-        <a href="https://myth.rip/pgp"><img src="https://img.shields.io/badge/OpenPGP-000000?style=for-the-badge"></a>
+        <a href="https://pastebin.com/raw/wvWUeuaV"><img src="https://img.shields.io/badge/OpenPGP-000000?style=for-the-badge"></a>
     </details>
 </div>
