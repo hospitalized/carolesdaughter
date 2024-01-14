@@ -25,9 +25,6 @@
     <details>
         <summary>My Socials</summary>
         <br>
-        <a href="https://myth.rip/mag">https://myth.rip/mag</a>
-        <br>
-        </br>
         <a href="https://discord.dog/394318793637232641"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
         <a href="https://t.me/hanukkahween"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
     </details>
