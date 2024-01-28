@@ -9,7 +9,7 @@ function Magnet:Langs()
     return {
         "C++"; "C#"; "Rust";
         "JavaScript"; "Lua"; "Python";
-    }
+    };
 end
 
 function Magnet:Socials()
@@ -25,9 +25,9 @@ function Magnet:Socials()
             "https://dose.lol/mag"; "https://myth.rip/mag";
             "https://ebio.gg/@mag"; "https://buymeacoffee.com/nrba";
             "https://feds.lol/int"; "https://feds.lol/nah";
-            "https://feds.lol/skin"; "https://feds.lol/irl"
-        }
-    }
+            "https://feds.lol/skin"; "https://feds.lol/irl";
+        };
+    };
 end
 
 return Magnet;
