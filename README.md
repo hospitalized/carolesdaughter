@@ -15,6 +15,7 @@ end
 function Magnet:Socials()
     return {
         ["Discord ID"] = "394318793637232641";
+        ["Discord Link"] = "https://discord.com/users/394318793637232641"
 
         ["Telegram"] = "https://t.me/hanukkahween";
         ["Instagram"] = "https://instagram.com/mag011011100110010101110100/";
