@@ -23,12 +23,12 @@ function Magnet:Socials()
             "https://afra.id/@mag"; "https://fakecrime.bio/mag";
             "https://guns.lol/mag"; "https://wanted.lol/mag";
             "https://dose.lol/mag"; "https://myth.rip/mag";
-            "https://ebio.gg/@mag"; "https://feds.lol/irl";
+            "https://ebio.gg/@mag"; "https://buymeacoffee.com/nrba";
             "https://feds.lol/int"; "https://feds.lol/nah";
-            "https://feds.lol/skin"; "https://buymeacoffee.com/nrba"
+            "https://feds.lol/skin"; "https://feds.lol/irl"
         }
     }
 end
 
-return Magnet
+return Magnet;
 ```
