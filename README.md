@@ -15,6 +15,7 @@ end
 function Magnet:Socials()
     return {
         ["Discord"] = "https://discord.com/users/394318793637232641";
+        ["Alt Discord"] = "https://discord.com/users/699820655004221501";
         ["Telegram"] = "https://t.me/hanukkahween";
         ["Session"] = "05f96b7905e3b65c6dd362e64bdacba977ace7b35786790aa9f4e750d617712924";
 
