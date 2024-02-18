@@ -7,7 +7,7 @@ end
 
 function Magnet:Langs()
     return {
-        "C++"; "C#"; "Rust";
+        "C++"; "C"; "Rust";
         "JavaScript"; "Lua"; "Python";
     };
 end
