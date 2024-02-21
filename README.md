@@ -1,5 +1,5 @@
 ```i
-I have given up GitHub. I will no longer use it.
+I have given up GitHub. It is "the Facebook of software development".
 
 You can now find any new projects @ https://codeberg.org/magnet instead.
 
