@@ -1,2 +1,2 @@
 - You can contact me over Session @ 05f96b7905e3b65c6dd362e64bdacba977ace7b35786790aa9f4e750d617712924
-- You can verify it's me over any social media by asking for a signed PGP message (of your choosing), in which you can [verify the message](https://pgptool.org/) sent to you with [my public key](https://github.com/6ce/6ce/blob/main/pgp.txt)
+- You can verify it's me over any social media by asking for a signed PGP message (with whatever text you like), in which you can [verify the message](https://pgptool.org/) sent to you with [my public key](https://github.com/6ce/6ce/blob/main/pgp.txt)
