@@ -1,1 +1,3 @@
-<img src="https://moe-counter.glitch.me/get/@:6ce">
+<center>
+  <img src="https://moe-counter.glitch.me/get/@:6ce"/>
+</center>
