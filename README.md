@@ -1,2 +1,2 @@
 - I program things.
-- [PGP](https://github.com/6ce/6ce/blob/main/pgp.txt)
+- [PGP Key](https://github.com/6ce/6ce/blob/main/pgp.txt)
