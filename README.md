@@ -1,1 +1,2 @@
-I don't script Roblox anymore. The funeral was last week. You weren't invited.
+- I program things.
+- [PGP](https://github.com/6ce/6ce/blob/main/pgp.txt)
